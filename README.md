@@ -1,2 +1,8 @@
 # docker-php
-Default PHP Image for me
+PHP Image with some needed Modules
+
+# Modules
+- mysqli
+- bcmath
+- session
+- gd
