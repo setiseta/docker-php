@@ -1,5 +1,5 @@
 FROM php:apache
-MAINTAINER Seti <seti@setadesign.net>
+LABEL maintainer="Seti <seti@setadesign.net>"
 
 RUN a2enmod rewrite
 
